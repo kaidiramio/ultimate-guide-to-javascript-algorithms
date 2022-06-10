@@ -4,6 +4,8 @@ return the equivalent of the sentence when capitalised. E.g
   capSentence('the tales of scotch!') // would return 'The Tales Of Scotch!' 
 */
 
+
+
 function capSentence(text){
   // cap sentence is a function
   // turns word into array (characters of word are index easier to target)
